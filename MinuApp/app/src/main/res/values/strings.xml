@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">MinuApp</string>
+    <string name="author_format">Raamatu autor on: %s</string>
+
+    <string-array name="books">
+        <item>Puhh</item>
+        <item>Punamütsike</item>
+        <item>Põialpoisid</item>
+        <item>Kuri nõid</item>
+        <item>Okasroosike</item>
+        <item>Vanapagan</item>
+        <item>Muinasjutt</item>
+        <item>Näkineid</item>
+        <item>Ajalugu</item>
+        <item>Niisama</item>
+        <item>Mittemidagi</item>
+        <item>Paks raamat</item>
+
+    </string-array>
+
+<string-array name="author">
+    <item> Vuhh </item>
+    <item> Tuhh </item>
+    <item> Suhh </item>
+    <item> Luhh </item>
+    <item> Kuhh </item>
+    <item> Ruhh </item>
+    <item> Muhh </item>
+    <item> Wuhh </item>
+    <item> Juhh </item>
+    <item> Zuhh </item>
+    <item> Buhh </item>
+    <item> Guhh </item>
+
+</string-array>
+
+    <string-array name="description">
+        <item> 1 </item>
+        <item> 2 </item>
+        <item> 3 </item>
+        <item> 4 </item>
+        <item> 5 </item>
+        <item> 6 </item>
+        <item> 7 </item>
+        <item> 8 </item>
+        <item> 9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+
+    </string-array>
+
+    <string-array name="pildid">
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/9/7/9789949780204_1.jpg</item>
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/1/image/600x600/17f82f742ffe127f42dca9de82fb58b1/E/9/E9789985341094_1.jpg</item>
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/3/image/600x600/17f82f742ffe127f42dca9de82fb58b1/9/7/9789949167111.jpg</item>
+        <item>https://www.rahvaraamat.ee/images/products/000/539/927/thumbnails/big/6f9bb188c7229a005191aec860eceaf614b207a5/minecraft-ehitusk%C3%A4siraamat.jpg</item>
+        <item>https://www.rahvaraamat.ee/images/products/000/516/753/thumbnails/big/ac0c2a274bbd4204e2c3420232697895c0e8a028/draama-liivimaal.jpg</item>
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/1/image/17f82f742ffe127f42dca9de82fb58b1/9/7/9789985337158.jpg</item>
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/1/image/600x600/17f82f742ffe127f42dca9de82fb58b1/E/9/E9789949274604_4.jpg</item>
+        <item>https://astri.ee/assets/medias/330278/pimedas-pimedas-metsas-1493298104002-apollo.jpg</item>
+        <item>https://astri.ee/assets/medias/330476/ahtriprojekt-head-ja-halvad-kalorid-1493298105816-apollo.jpg</item>
+        <item>https://astri.ee/assets/medias/322374/hajameelne-pardiema-1493298045330-apollo.jpg</item>
+        <item>https://meedia.apollo.ee/media/catalog/product/cache/1/image/600x600/17f82f742ffe127f42dca9de82fb58b1/9/7/9789949344369.jpg</item>
+        <item>https://astri.ee/assets/medias/468588/winnie-ja-wilbur-1-noid-winnie-uued-sobrad-1504668393884-apollo.jpg</item>
+
+
+    </string-array>
+
+</resources>
